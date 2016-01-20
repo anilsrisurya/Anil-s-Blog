@@ -1,0 +1,4 @@
+Web services are Apex code that you expose out and can consume with either SOAP or REST.  
+Typically this is used to expose complex buisness logic in an easily consumable way. 
+For example, you could use a web service to combine together an account with all of it’s contacts and return them in a single call. 
+In this article we will be covering SOAP endpoints, but most of the principles also apply to REST endpoints.
